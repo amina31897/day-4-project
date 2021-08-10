@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+   
+    font-display: larger;
+font-family:initial;
+color:purple;}
+h2{
+  text-align: center;
+}
+h3{
+     
+    background-position: center;
+    text-align: center;
+    background-color: rebeccapurple;
+    color:seashell;
+}
+h4{text-align: center;
+    background-position: center;
+    background-color: rebeccapurple;
+    color:seashell;
+    background-size: 12px;
+
+}
+    p{ margin: top 1px; ;
+       border-spacing: 5px;
+        
+        font-size: 15px;
+       
+    }
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 15%;
+      }
+a{ 
+    font-size: 18px;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+ 
+  iframe{
+    size: 17%;  
+    float: inline-end;
+    align-items: center;
+    ;
+    
+  }
+  
